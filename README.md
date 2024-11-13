@@ -9,4 +9,4 @@ My first repository
 6. **Documentaries**
 7. **Horror**
    
-> Whenever I'm bored or nothing to do, I just watch movies since I really enjoy it especially if the movie is real good.
+> Whenever I'm bored or nothing to do, I just watch movies since I really enjoy it especially if the movie/series is real good.

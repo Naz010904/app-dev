@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-## My Favorite Series
+## My Favorite Movies/Series
 1. **The Hunger Games**
 2. **Home Alone**
 3. **A Walk To Remember**
